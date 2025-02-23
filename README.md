@@ -1,0 +1,1 @@
+This project analyzes LendingClub's loan data from 2007-2010 to build a predictive model using Decision Tree and Random Forest model that classifies borrowers based on their likelihood of fully repaying their loans. By leveraging machine learning techniques, we aim to assist investors in making informed lending decisions.
